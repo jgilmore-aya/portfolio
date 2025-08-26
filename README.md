@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: R, Mathematica, Python, HPC
+#### Technical Skills: R, Mathematica, Python, 
 
 ## Education
 - Ph.D., Physics | Yale University (_XXX 2011_)
@@ -9,4 +9,9 @@
 - B.S., Physics (Hons) and Pure Mathematics | The University of Western Australia (_2003_)
 
 ## Work Experience
+
+
+
+## Data Science
+# Filters
 
