@@ -1,6 +1,6 @@
 # add the following to _config.yml file
 title: James Gilmore
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Currently looking for opportunities in Data Science, Methodlogy and Consulting
   <br><br> 
