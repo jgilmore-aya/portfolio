@@ -9,10 +9,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently looking for opportunities in Data Science, Methodlogy and Consulting. I specilise in advanced methods, check out the examples below. 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">Advanced Data Science - Filters</a> 
-    <br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">Advanced Data Science - Features</a> 
-    <br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">Advanced Data Science - Wrangling</a> 
-      <br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/example/">Advanced Data Science - Networks</a>
+  <br><br>
 theme: jekyll-theme-minimal
