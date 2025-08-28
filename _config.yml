@@ -8,13 +8,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Currently looking for opportunities in Data Science, Methodlogy and Consulting. I specilise in advanced methods, check out the examples below. 
   <br><br>
-  Advanced Data Science
-  <br>
-    <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Modelling</a><br>
-    <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Time Series Filters</a><br>
-    <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Features</a><br>
-    <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Wrangling</a><br>
-    <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Networks</a>
-  <br>
 theme: jekyll-theme-minimal
 baseurl: "/portfolio"
