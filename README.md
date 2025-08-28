@@ -1,40 +1,38 @@
 # Dr. James Gilmore - Data Science Portfolio
 
-Experienced data scientist and statistical expert with 13+ years of diverse skills in research and analytics. Specialized in complex problem-solving through advanced statistical modeling, machine learning and consultation. Proven track record of delivering insights from datasets while providing strategic advice and statistical educaiton. Currently focused on applying cutting-edge statistical methods and machine learning techniques to drive evidence-based decisions.
+Data scientist and statistical expert with 13+ years of diverse experience in research, analytics and modelling. Specialized in complex problem-solving through advanced statistical modeling, machine learning and methodology. Proven track record of delivering insights from datasets while providing strategic advice, oversight and statistical education. Currently focused on applying cutting-edge statistical methods and machine learning techniques to drive evidence-based decisions.
 
 ## Advanced Data Science Series
 
 Here is a selection of interesting projects:
 
 [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/) | 
-[Features](https://www.linkedin.com/in/james-gilmore-5724821a/)  | [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)| 
+[Features](https://www.linkedin.com/in/james-gilmore-5724821a/)  | [Network Analysis](https://www.linkedin.com/in/james-gilmore-5724821a/) | 
 [Machine Learning](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Robust Approaches](https://www.linkedin.com/in/james-gilmore-5724821a/)
 
 ## Technical Skills
 ### Programming & Analytics
-Primary: Python, R, SPSS |
-Statistical Computing: Excel, MATLAB |
+Primary: R, Mathematica, Python, SPSS, Excel
+Statistical Computing: Excel, MATLAB
 
 ### Data Science & Machine Learning
 
 Statistical Analysis: ANOVA, Linear Modeling, Bayesian Statistics
 Machine Learning: Clustering, PCA, Forecasting, Classification
-Modeling: Mathematical Modeling, Optimization Models
-Experimental Design: Sample Size Calculations, A/B Testing
-
-### Data Engineering & Visualization
-
-ETL: Extract, Transform, Load Processes
-Data Visualization: Statistical Plotting, Dashboards
-Big Data: High-dimensional Data Analysis
-Data Quality: Validation, Cleaning, Management
-
-### Specialized Techniques
-
-Advanced Statistics: Repeated Measures Analysis, Uncertainty Analysis
+Modeling: Model Selection, Processes, Optimization, Parameter Tuning
 Forecasting: Time Series Analysis, Predictive Modeling
-Optimization: Mathematical Optimization, Constraint Programming
+Experimental Design: Sample Size Calculations, A/B Testing, Statistical Design
+Big Data: High-dimensional Data Analysis
+
+### Visualization
+
+Data Visualization: Statistical Plotting
+
+### Data & Project Management
+
+Data Quality: Validation, Cleaning, Missing Values
 Survey Analysis: Questionnaire Design, Response Analysis
+Management: Project Oversight, Analysis Plans, Statistical Consultation
 
 ### Tools & Platforms
 
