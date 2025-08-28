@@ -7,17 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">View My LinkedIn Profile</a> 
   <br><br>
   Currently looking for opportunities in Data Science, Methodlogy and Consulting. I specilise in advanced methods, check out the examples below. 
-  <br>Advanced Data Science<br>
+   <br><br>
+  #**Advanced Data Science**
   <br><br>
-    <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Modelling</a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Filters</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Features</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Wrangling</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Networks</a>
+    <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Modelling</a>, <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Filters</a>, <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Features</a>, <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Wrangling</a>, <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Networks</a>
   <br><br>
 theme: jekyll-theme-minimal
 baseurl: "/portfolio"
