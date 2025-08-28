@@ -12,7 +12,7 @@ Here is a selection of interesting projects:
 
 ## Technical Skills
 ### Programming & Analytics
-Primary: R, Mathematica, Python, SPSS, Excel.
+Primary: R, Mathematica, Python, SPSS, Excel. 
 Statistical Computing: Excel, MATLAB.
 
 ### Data Science & Machine Learning
