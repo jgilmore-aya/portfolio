@@ -3,11 +3,11 @@
 #### Technical Skills: R, Mathematica, Python, 
 
 ## Advanced Data Science
-    {% Modelling https://www.linkedin.com/in/james-gilmore-5724821a/%} 
-    {% Time Series Filters https://www.linkedin.com/in/james-gilmore-5724821a/%} 
-    {% Features https://www.linkedin.com/in/james-gilmore-5724821a/%} 
-    {% Wrangling https://www.linkedin.com/in/james-gilmore-5724821a/%} 
-    {% Networks https://www.linkedin.com/in/james-gilmore-5724821a/%} 
+- {% Modelling https://www.linkedin.com/in/james-gilmore-5724821a/ %}
+- {% Time Series Filters https://www.linkedin.com/in/james-gilmore-5724821a/ %}
+- {% Features https://www.linkedin.com/in/james-gilmore-5724821a/ %}
+- {% Wrangling https://www.linkedin.com/in/james-gilmore-5724821a/ %}
+- {% Networks https://www.linkedin.com/in/james-gilmore-5724821a/ %}
 
 ## Education
 - Ph.D., Physics | Yale University (_XXX 2011_)
