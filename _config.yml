@@ -19,3 +19,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">Advanced Data Science - Networks</a>
   <br><br>
 theme: jekyll-theme-minimal
+baseurl: "/portfolio"
