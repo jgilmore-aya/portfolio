@@ -1,4 +1,4 @@
-# Data Scientist
+# Dr. James Gilmore - Data Science Portfolio
 
 #### Technical Skills: R, Mathematica, Python, 
 
