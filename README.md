@@ -5,24 +5,23 @@
 ## Advanced Data Science
 
 <div style="-webkit-column-count: 3; -moz-column-count: 3; column-count: 3;">
-  - [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)
+
+  <p>- [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Features](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/)
-- [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)
-  <p>This is the content for the first column.</p>
-  - [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)
+- [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)</p>
+
+  <p>- [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Features](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/)
-- [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)
-  <p>This is the content for the second column.</p>
- - [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)
+- [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)</p>
+  <p>- [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Features](https://www.linkedin.com/in/james-gilmore-5724821a/)
 - [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/)
-- [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)
-  <p>This is the content for the third column.</p>
+- [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)</p>
 </div>
 
 
