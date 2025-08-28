@@ -18,17 +18,4 @@
 
 
 
-## Data Science
-### Filtering
-#### Time series methods
-#### Kalman methods
-#### Particle Filters
-#### Filters, Shocks and Causality
-
-### Variable Importance -- PCA and more
-#### VIX
-
-### Data Wrangling
-#### Extraction
-#### Missing values
 
