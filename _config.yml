@@ -1,7 +1,5 @@
 # add the following to _config.yml file
 title: Dr. James Gilmore
-Data Scientist & Consultant
-Ph.D. Physics | M.Phil. | M.Sc.
 logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist & Consultant 
