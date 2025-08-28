@@ -4,9 +4,9 @@
 
 ## Advanced Data Science Series
 
-[Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/) | Pretty
-[Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)</p> | ---
-[Features](https://www.linkedin.com/in/james-gilmore-5724821a/) | `renders` | **nicely**
+[Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/) | 
+[Features](https://www.linkedin.com/in/james-gilmore-5724821a/)  | [Networks](https://www.linkedin.com/in/james-gilmore-5724821a/)| 
+[Machine Learning](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Robust Approaches](https://www.linkedin.com/in/james-gilmore-5724821a/)
 
 ## Education
 - Ph.D., Physics | Yale University (_XXX 2011_)
