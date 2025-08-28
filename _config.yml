@@ -1,12 +1,15 @@
 # add the following to _config.yml file
-title: James Gilmore
+title: Dr. James Gilmore
+Data Scientist & Consultant
+Ph.D. Physics | M.Phil. | M.Sc.
 logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Currently looking for opportunities in Data Science, Methodlogy and Consulting
+  Data Scientist & Consultant 
+  Ph.D. Physics | M.Phil. | M.Sc. | BSc (Hons)
   <br><br> 
   <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">View My LinkedIn Profile</a> 
   <br><br>
-  Currently looking for opportunities in Data Science, Methodlogy and Consulting. I specilise in advanced methods, check out the examples below. 
+  Currently looking for opportunities in Data Science, Methodlogy and Consulting. I specilise in advanced methododlogy, modelling, and consultation. 
   <br><br>
 theme: jekyll-theme-minimal
 baseurl: "/portfolio"
