@@ -12,36 +12,36 @@ Here is a selection of interesting projects:
 
 ## Technical Skills
 ### Programming & Analytics
-Primary: R, Python, Mathematica  
-Statistical:  SPSS Statistics, Excel, jamovi, GraphPad Prism, MATLAB  
-Advanced: GeNIe Modeler (Bayesian modelling)
+_Primary_: R, Python, Mathematica  
+_Statistical_:  SPSS Statistics, Excel, jamovi, GraphPad Prism, MATLAB  
+_Advanced_: GeNIe Modeler (Bayesian modelling)
 
 ### Data Science & Machine Learning
 
-Statistical Analysis: Linear Modeling, ANOVA, Bayesian Statistics  
-Machine Learning: Clustering, PCA, Forecasting, Classification  
-Modeling: Model Selection, Processes, Optimization, Parameter Tuning  
-Forecasting: Time Series Analysis, Predictive Modeling  
-Big Data: High-dimensional Data Analysis
+_Statistical Analysis_: Linear Modeling, ANOVA, Bayesian Statistics  
+_Machine Learning_: Clustering, PCA, Forecasting, Classification  
+_Modeling_: Model Selection, Processes, Optimization, Parameter Tuning  
+_Forecasting_: Time Series Analysis, Predictive Modeling  
+_Big Data_: High-dimensional Data Analysis
 
 ### Visualization
 
-Statistical & Exploratory: Correlation Plots, Distribution Plots, Scatter Plots, Regression Lines, Multivariate Plots, Tables  
-Time Series: Visulation, Forecasting & Confidence Intervals, Frequnecy Space Plots, Wavelet Analysis  
-Machine Learning: Feature Importance, Confusion Matrices, Learning Curves, Principal Component Analysis (PCA) Plots  
-Advanced: Network Graphs with Relationships, 2d & 3d Animations, Word Clouds, Sentiment Analysis
+_Statistical & Exploratory_: Correlation, Distribution, Scatter, Regression Lines, Multivariate, Tables  
+_Time Series_: Visulation, Forecasting & Confidence Intervals, Frequnecy Space Plots, Wavelet Analysis  
+_Machine Learning_: Feature Importance, Confusion Matrices, Learning Curves, Principal Component Analysis (PCA) Plots  
+_Advanced_: Network Graphs with Relationships, 2d & 3d Animations, Word Clouds, Sentiment Analysis
 
 ### Data & Project Management
 
-Data Quality: Validation, Cleaning, Missing Values  
-Experimental Design: Sample Size Calculations, Statistical Design, A/B Testing  
-Survey Analysis: Questionnaire Design, Response Analysis  
-Management: Project Oversight, Analysis Plans, Statistical Consultation
+_Data Quality_: Validation, Cleaning, Missing Values  
+_Experimental Design_: Sample Size Calculations, Statistical Design, A/B Testing  
+_Survey Analysis_: Questionnaire Design, Response Analysis  
+_Management_: Project Oversight, Analysis Plans, Statistical Consultation
 
 ### Tools & Platforms
 
-Version Control: Git, GitHub  
-Documentation: Jupyter Notebooks, R Markdown, Mathematica
+_Version Control_: Git, GitHub  
+_Documentation_: Jupyter Notebooks, R Markdown, Mathematica
 
 ## Certifications
 
