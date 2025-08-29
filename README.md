@@ -12,12 +12,13 @@ Here is a selection of interesting projects:
 
 ## Technical Skills
 ### Programming & Analytics
-Primary: R, Mathematica, Python, SPSS, Excel.  
-Statistical Computing: Excel, MATLAB.
+Primary: R, Python, Mathematica  
+Statistical:  SPSS Statistics, Excel, jamovi, GraphPad Prism, MATLAB  
+Advanced: GeNIe Modeler (Bayesian modelling)
 
 ### Data Science & Machine Learning
 
-Statistical Analysis: ANOVA, Linear Modeling, Bayesian Statistics  
+Statistical Analysis: Linear Modeling, ANOVA, Bayesian Statistics  
 Machine Learning: Clustering, PCA, Forecasting, Classification  
 Modeling: Model Selection, Processes, Optimization, Parameter Tuning  
 Forecasting: Time Series Analysis, Predictive Modeling  
@@ -26,10 +27,10 @@ Big Data: High-dimensional Data Analysis
 
 ### Visualization
 
-Data Visualization: Statistical Plotting  
-Data Visualization: Statistical Plotting  
-Data Visualization: Statistical Plotting  
-Data Visualization: Statistical Plotting  
+Statistical & Exploratory: Correlation plots, Distribution plots, Scatter plots, Regression lines, Multivariate plots, Tables  
+Time Series: Visulation, Forecasting with confidence intervals, Frequnecy space plots, Wavelet analysis  
+Machine Learning: Feature importance, Confusion matrices, Learning curves, Principal component analysis (PCA) plots 
+Advanced: Network graphs showing relationships, 2d & 3d animations, Word clouds, Sentiment analysis
 
 ### Data & Project Management
 
