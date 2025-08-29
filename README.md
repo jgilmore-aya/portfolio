@@ -1,6 +1,6 @@
 # Dr. James Gilmore - Data Science Portfolio
 
-Data scientist and statistical expert with 13+ years of diverse experience in research, analytics and modelling. Specialized in complex problem-solving through advanced statistical modeling, machine learning and methodology. Proven track record of delivering insights from datasets while providing strategic advice, oversight and statistical education. Currently focused on applying cutting-edge statistical methods and machine learning techniques to drive evidence-based decisions.
+Data scientist with 13+ years of experience in analytics, statistical modeling, and machine learning. Proven track record of solving complex problems and delivering actionable insights to drive evidence-based decisions.
 
 ## Advanced Data Science Series
 
