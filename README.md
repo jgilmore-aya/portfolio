@@ -22,19 +22,19 @@ Statistical Analysis: Linear Modeling, ANOVA, Bayesian Statistics
 Machine Learning: Clustering, PCA, Forecasting, Classification  
 Modeling: Model Selection, Processes, Optimization, Parameter Tuning  
 Forecasting: Time Series Analysis, Predictive Modeling  
-Experimental Design: Sample Size Calculations, A/B Testing, Statistical Design  
 Big Data: High-dimensional Data Analysis
 
 ### Visualization
 
-Statistical & Exploratory: Correlation plots, Distribution plots, Scatter plots, Regression lines, Multivariate plots, Tables  
-Time Series: Visulation, Forecasting with confidence intervals, Frequnecy space plots, Wavelet analysis  
-Machine Learning: Feature importance, Confusion matrices, Learning curves, Principal component analysis (PCA) plots 
-Advanced: Network graphs showing relationships, 2d & 3d animations, Word clouds, Sentiment analysis
+Statistical & Exploratory: Correlation Plots, Distribution Plots, Scatter Plots, Regression Lines, Multivariate Plots, Tables  
+Time Series: Visulation, Forecasting & Confidence Intervals, Frequnecy Space Plots, Wavelet Analysis  
+Machine Learning: Feature Importance, Confusion Matrices, Learning Curves, Principal Component Analysis (PCA) Plots  
+Advanced: Network Graphs with Relationships, 2d & 3d Animations, Word Clouds, Sentiment Analysis
 
 ### Data & Project Management
 
 Data Quality: Validation, Cleaning, Missing Values  
+Experimental Design: Sample Size Calculations, Statistical Design, A/B Testing  
 Survey Analysis: Questionnaire Design, Response Analysis  
 Management: Project Oversight, Analysis Plans, Statistical Consultation
 
