@@ -49,29 +49,24 @@ ChatGPT Prompt Engineering for Developers - DeepLearning.AI (May 2024)
 
 ## Professional Experience
 
-Data Science, Statistics, and Methodology Specialist | University of Canberra & AIS
-September 2020 - September 2023
-Statistical consultation, methodology, experimental design, advanced analyses (ANOVA, Bayesian, PCA, clustering), machine learning models, forecasting solutions
+Data Science, Statistics, and Methodology Specialist | University of Canberra & AIS, September 2020 - September 2023  
+Statistical consultation, methodology, experimental design, advanced analyses (ANOVA, Bayesian, PCA, clustering), machine learning models, forecasting solutions  
 Skills: R, Python, SPSS, Machine Learning, Bayesian Analysis
 
-Postdoctoral Researcher | UNSW
-October 2017 - March 2020
-Statistical and machine learning techniques for space applications, forecasting for space missions, high-uncertainty data analysis
+Postdoctoral Researcher | UNSW, October 2017 - March 2020  
+Statistical and machine learning techniques for space applications, forecasting for space missions, high-uncertainty data analysis  
 Skills: Python, R, Machine Learning, Forecasting, Uncertainty Analysis
 
-Postdoctoral Research Fellow | CSIRO
-July 2014 - November 2016
-Multidisciplinary research in atmospheric science and climate change, optimization algorithms for climate modeling, uncertainty quantification
+Postdoctoral Research Fellow | CSIRO, July 2014 - November 2016  
+Multidisciplinary research in atmospheric science and climate change, optimization algorithms for climate modeling, uncertainty quantification  
 Skills: Mathematical Modeling, Optimization, Climate Data Analysis
 
-Super Science Research Fellow and Educator | UNSW
-October 2010 - June 2014
-Rainfall patterns and extreme weather analysis using satellite data, atmospheric process analysis, science education
+Super Science Research Fellow and Educator | UNSW, October 2010 - June 2014  
+Rainfall patterns and extreme weather analysis using satellite data, atmospheric process analysis, science education  
 Skills: Satellite Data Analysis, Climate Modeling, Statistical Analysis
 
-Research Associate | UNSW
-June 2010 - October 2010
-Mathematical modeling of HIV dynamics and antiretroviral therapy effects
+Research Associate | UNSW, June 2010 - October 2010  
+Mathematical modeling of HIV dynamics and antiretroviral therapy effects  
 Skills: Mathematical Modeling, Uncertainty Analysis, Biological Data Analysis
 
 
