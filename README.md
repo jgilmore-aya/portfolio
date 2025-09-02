@@ -2,9 +2,9 @@
 
 Data scientist with 13+ years of experience in analytics, statistical modeling, and machine learning. Proven track record of solving complex problems and delivering actionable insights to drive evidence-based decisions.
 
-## Advanced Data Science Series
+## Advanced Data Science Showcase
 
-Here is a selection of interesting projects:
+Here is a selection of projects demosntrating my competence and capability. Some are taken from kaggle, yahoo finance, UC Irvine Machine Learning Repository, ... 
 
 [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/) | 
 [Features](https://www.linkedin.com/in/james-gilmore-5724821a/)  | [Network Analysis](https://www.linkedin.com/in/james-gilmore-5724821a/) | 
@@ -48,46 +48,32 @@ _Documentation_: Jupyter Notebooks, R Markdown, Mathematica
 ChatGPT Prompt Engineering for Developers - DeepLearning.AI (May 2024)
 
 ## Professional Experience
-Data Science, Statistics, and Methodology Specialist | University X
-September 2020 - September 2023 (3 years 1 month)
 
-Provided statistical consultation to researchers at University of Canberra and Australian Institute of Sport
-Designed experiments and performed advanced analyses (ANOVA, Bayesian statistics, PCA, clustering)
-Developed machine learning models and forecasting solutions using Python and R
-Led data management oversight and strategic initiatives to improve statistical quality
+Data Science, Statistics, and Methodology Specialist | University of Canberra & AIS
+September 2020 - September 2023
+Statistical consultation, methodology, experimental design, advanced analyses (ANOVA, Bayesian, PCA, clustering), machine learning models, forecasting solutions
+Skills: R, Python, SPSS, Machine Learning, Bayesian Analysis
 
-Technologies: Python, R, SPSS, Excel, Statistical Modeling, Machine Learning, Bayesian Analysis
-Postdoctoral Researcher | University Y
-October 2017 - March 2020 (2 years 6 months)
+Postdoctoral Researcher | UNSW
+October 2017 - March 2020
+Statistical and machine learning techniques for space applications, forecasting for space missions, high-uncertainty data analysis
+Skills: Python, R, Machine Learning, Forecasting, Uncertainty Analysis
 
-Investigated statistical and machine learning techniques for space environment applications
-Implemented forecasting approaches for rapid deployment in space missions
-Mentored researchers on handling high-uncertainty data and developed ETL processes
+Postdoctoral Research Fellow | CSIRO
+July 2014 - November 2016
+Multidisciplinary research in atmospheric science and climate change, optimization algorithms for climate modeling, uncertainty quantification
+Skills: Mathematical Modeling, Optimization, Climate Data Analysis
 
-Technologies: Python, R, Machine Learning, ETL, Forecasting, Uncertainty Analysis
-Postdoctoral Research Fellow | Science Institute W
-July 2014 - November 2016 (2 years 5 months)
+Super Science Research Fellow and Educator | UNSW
+October 2010 - June 2014
+Rainfall patterns and extreme weather analysis using satellite data, atmospheric process analysis, science education
+Skills: Satellite Data Analysis, Climate Modeling, Statistical Analysis
 
-Led multidisciplinary research in atmospheric science, climate change, and mathematical biology
-Developed optimization algorithms for climate modeling and performed uncertainty quantification
-Collaborated with international teams on climate change impact assessments
+Research Associate | UNSW
+June 2010 - October 2010
+Mathematical modeling of HIV dynamics and antiretroviral therapy effects
+Skills: Mathematical Modeling, Uncertainty Analysis, Biological Data Analysis
 
-Technologies: Mathematical Modeling, Optimization, Uncertainty Analysis, Climate Data Analysis
-Super Science Research Fellow and Educator | University V
-October 2010 - June 2014 (3 years 9 months)
-
-Researched rainfall patterns and extreme weather events using satellite data and climate simulations
-Developed novel approaches for atmospheric process analysis
-Delivered education across multiple platforms and taught diverse science courses
-
-Technologies: Satellite Data Analysis, Climate Modeling, Statistical Analysis, Data Visualization
-Research Associate | University V
-June 2010 - October 2010 (5 months)
-
-Developed mathematical models of HIV dynamics and antiretroviral therapy effects
-Applied uncertainty analysis to biological systems modeling
-
-Technologies: Mathematical Modeling, Uncertainty Analysis, Biological Data Analysis
 
 ## Education
 - Ph.D., Physics | Yale University (_2011_)
