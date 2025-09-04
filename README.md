@@ -50,7 +50,6 @@ ChatGPT Prompt Engineering for Developers - DeepLearning.AI (May 2024)
 ## Professional Experience
 
 **Data Science, Statistics, and Methodology Specialist**  
-**Post-doctoral Research Fellow Statistician**  
 University of Canberra & AIS, September 2020 - September 2023  
 _Skills: Statistical consultation, methodology, R, SPSS, Python, Machine Learning_
 
