@@ -50,29 +50,24 @@ ChatGPT Prompt Engineering for Developers - DeepLearning.AI (May 2024)
 ## Professional Experience
 
 **Data Science, Statistics, and Methodology Specialist**  
-Post-doctoral Research Fellow Statistician  
+**Post-doctoral Research Fellow Statistician**  
 University of Canberra & AIS, September 2020 - September 2023  
-Statistical consultation, methodology, machine learning, forecasting  
-_Skills: R, Python, SPSS, Machine Learning, Bayesian Analysis_
+_Skills: Statistical consultation, methodology, R, SPSS, Python, Machine Learning_
 
 **Postdoctoral Fellow – Space Modelling**  
 UNSW, October 2017 - March 2020  
-Statistical and machine learning, forecasting, high-uncertainty data analysis  
-_Skills: Python, R, Machine Learning, Forecasting_
+_Skills: Python, R, Machine Learning, Statistics, Forecasting_
 
 **OCE Postdoctoral Research Fellow**  
-CSIRO, July 2014 - November 2016  
-Multidisciplinary research, optimization, uncertainty quantification  
+CSIRO, July 2014 - November 2016   
 _Skills: Mathematical Modeling, Optimization, Climate Data Analysis_
 
 **Super Science Research Fellow and Educator**  
 UNSW, October 2010 - June 2014  
-Rainfall and extreme weather analysis, satellite data, atmospheric processes, education  
-_Skills: Satellite Data Analysis, Climate Modeling, Statistical Analysis_
+_Skills: Satellite Data Analysis, Climate Data, Process Modeling, Statistical Analysis_
 
 **Research Associate**  
 UNSW, June 2010 - October 2010  
-Mathematical modeling of HIV dynamics and antiretroviral therapy effects  
 _Skills: Mathematical Modeling, Biological Data Analysis_
 
 
