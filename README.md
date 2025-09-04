@@ -59,7 +59,7 @@ _Skills: Python, R, Machine Learning, Statistics, Forecasting_
 
 **OCE Postdoctoral Research Fellow**  
 CSIRO, July 2014 - November 2016   
-_Skills: Mathematical Modeling, Optimization, Climate Data Analysis_
+_Skills: Mathematical Modeling, Optimization, Climate Data, Analysis_
 
 **Super Science Research Fellow and Educator**  
 UNSW, October 2010 - June 2014  
