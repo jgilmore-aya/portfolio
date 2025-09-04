@@ -10,38 +10,36 @@ Here is a selection of projects demosntrating my competence and capability. Some
 [Features](https://www.linkedin.com/in/james-gilmore-5724821a/)  | [Network Analysis](https://www.linkedin.com/in/james-gilmore-5724821a/) | 
 [Machine Learning](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Robust Approaches](https://www.linkedin.com/in/james-gilmore-5724821a/)
 
-## Technical Skills
-### Programming & Analytics
-_Primary_: R, Python, Mathematica  
-_Statistical_:  SPSS Statistics, Excel, jamovi, GraphPad Prism, MATLAB  
-_Advanced_: GeNIe Modeler (Bayesian modelling)
+# Technical Skills
 
-### Data Science & Machine Learning
+## Programming & Analytics
+**Primary:** R, Python, Mathematica  
+**Statistical:** SPSS, Excel, jamovi, GraphPad Prism, MATLAB  
+**Advanced:** GeNIe Modeler (Bayesian modeling)
 
-_Statistical Analysis_: Linear Modeling, ANOVA, Bayesian Statistics  
-_Machine Learning_: Clustering, PCA, Forecasting, Classification  
-_Modeling_: Model Selection, Processes, Optimization, Parameter Tuning  
-_Forecasting_: Time Series Analysis, Predictive Modeling  
-_Big Data_: High-dimensional Data Analysis
+## Data Science & Machine Learning
+**Statistical:** Linear Modeling, ANOVA, Bayesian Statistics  
+**ML Methods:** Clustering, PCA, Forecasting, Classification  
+**Modeling:** Selection, Optimization, Parameter Tuning  
+**Time Series:** Forecasting, Predictive Modeling  
+**Big Data:** High-dimensional Analysis
 
-### Visualization
+## Visualization
+**Statistical:** Correlation, distributions, scatter, regression  
+**Time Series:** Trends, forecasting, frequency plots, wavelets  
+**ML Graphics:** Feature importance, confusion matrices, learning curves  
+**Advanced:** Network graphs, 2D/3D animations, word clouds
 
-_Statistical & Exploratory_: Correlation, Distribution, Scatter, Regression Lines, Multivariate, Tables  
-_Time Series_: Visulation, Forecasting & Confidence Intervals, Frequnecy Space Plots, Wavelet Analysis  
-_Machine Learning_: Feature Importance, Confusion Matrices, Learning Curves, Principal Component Analysis (PCA) Plots  
-_Advanced_: Network Graphs with Relationships, 2d & 3d Animations, Word Clouds, Sentiment Analysis
+## Data & Project Management
+**Data Quality:** Validation, cleaning, missing data handling  
+**Design:** Sample size calculations, A/B testing  
+**Surveys:** Questionnaire design, response analysis  
+**Leadership:** Project oversight, analysis planning, consultation
 
-### Data & Project Management
+## Tools & Platforms
+**Version Control:** Git, GitHub  
+**Documentation:** Jupyter, R Markdown, Mathematica
 
-_Data Quality_: Validation, Cleaning, Missing Values  
-_Experimental Design_: Sample Size Calculations, Statistical Design, A/B Testing  
-_Survey Analysis_: Questionnaire Design, Response Analysis  
-_Management_: Project Oversight, Analysis Plans, Statistical Consultation
-
-### Tools & Platforms
-
-_Version Control_: Git, GitHub  
-_Documentation_: Jupyter Notebooks, R Markdown, Mathematica
 
 ## Certifications
 
