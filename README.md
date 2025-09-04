@@ -49,30 +49,31 @@ ChatGPT Prompt Engineering for Developers - DeepLearning.AI (May 2024)
 
 ## Professional Experience
 
-Data Science, Statistics, and Methodology Specialist  
+**Data Science, Statistics, and Methodology Specialist**  
+Post-doctoral Research Fellow Statistician  
 University of Canberra & AIS, September 2020 - September 2023  
-Statistical consultation, methodology, experimental design, machine learning, forecasting  
-Skills: R, Python, SPSS, Machine Learning, Bayesian Analysis
+Statistical consultation, methodology, machine learning, forecasting  
+_Skills: R, Python, SPSS, Machine Learning, Bayesian Analysis_
 
-Postdoctoral Researcher - Space Forecasting
+**Postdoctoral Fellow – Space Modelling**
 UNSW, October 2017 - March 2020  
-Statistical and machine learning techniques, forecasting, high-uncertainty data analysis  
-Skills: Python, R, Machine Learning, Forecasting, Uncertainty Analysis
+Statistical and machine learning, forecasting, high-uncertainty data analysis  
+_Skills: Python, R, Machine Learning, Forecasting_
 
-OCE Postdoctoral Research Fellow  
+**OCE Postdoctoral Research Fellow**  
 CSIRO, July 2014 - November 2016  
 Multidisciplinary research, optimization, uncertainty quantification  
-Skills: Mathematical Modeling, Optimization, Climate Data Analysis
+_Skills: Mathematical Modeling, Optimization, Climate Data Analysis_
 
-Super Science Research Fellow and Educator  
+**Super Science Research Fellow and Educator**  
 UNSW, October 2010 - June 2014  
 Rainfall and extreme weather analysis, satellite data, atmospheric processes, education  
-Skills: Satellite Data Analysis, Climate Modeling, Statistical Analysis
+_Skills: Satellite Data Analysis, Climate Modeling, Statistical Analysis_
 
-Research Associate  
+**Research Associate** 
 UNSW, June 2010 - October 2010  
 Mathematical modeling of HIV dynamics and antiretroviral therapy effects  
-Skills: Mathematical Modeling, Uncertainty Analysis, Biological Data Analysis
+_Skills: Mathematical Modeling, Biological Data Analysis_
 
 
 ## Education
