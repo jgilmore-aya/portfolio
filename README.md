@@ -69,10 +69,10 @@ _Skills: Mathematical Modeling, Biological Data Analysis_
 
 
 ## Education
-- Ph.D., Physics | Yale University (_2011_)
-- M.Phil., Physics	| Yale University (_2008_)									       		
-- M.Sc., Physics	| Yale University (_2005_)	 			        		
-- B.Sc., Physics (Hons) and Pure Mathematics | The University of Western Australia (_2003_)
+**Ph.D., Physics | Yale University (_2011_)**
+**M.Phil., Physics	| Yale University (_2008_)**									       		
+**M.Sc., Physics	| Yale University (_2005_)**	 			        		
+**B.Sc., Physics (Hons) and Pure Mathematics | The University of Western Australia (_2003_)**
 
 
 
