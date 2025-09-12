@@ -7,8 +7,8 @@ Data scientist with 13+ years of experience in analytics, statistical modeling, 
 Here is a selection of projects demonstrating my competence and capability. Datasets are  from kaggle, yahoo finance, and the UC Irvine Machine Learning Repository, ... 
 
 [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)  
-![Modelling Project](portfolio/images/image.JPG 'Modelling') | [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/)  
- ![Time Series Filters Project](portfolio/images/image.JPG 'TS')| 
+![Modelling Project](images/image.JPG 'Modelling') | [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/)  
+ ![Time Series Filters Project](images/image.JPG 'TS')| 
 [Features](https://www.linkedin.com/in/james-gilmore-5724821a/)  | [Network Analysis](https://www.linkedin.com/in/james-gilmore-5724821a/) | 
 [Machine Learning](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Wrangling](https://www.linkedin.com/in/james-gilmore-5724821a/) | [Robust Approaches](https://www.linkedin.com/in/james-gilmore-5724821a/)
 
