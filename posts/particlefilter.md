@@ -39,10 +39,10 @@ In general if your system has non-Gaussian characteristics, such as the true pos
 
 ## Performance Expectations
 
-In the past I worked with gravitational n-body simulations, and particle filters share some similar computation characteristics to those types of calculations. In general, tracking lots of particles is computationally expensive. This is the key downside of particle filters and places limitations on their usefulness. In particular, particle filters might not be your best choice in the following cases:
-*High-dimensional states: Consider Unscented Kalman Filter instead*  
-*Computational constraints: Each particle requires a full state prediction*  
-*Smooth, unimodal posteriors: Classical Kalman filtering is more efficient*  
+In the past I worked with gravitational n-body simulations, and particle filters share some similar computation characteristics to those types of calculations. In general, tracking lots of particles is computationally expensive. This is the key downside of particle filters and places limitations on their usefulness. In particular, particle filters might not be your best choice in the following cases:  
+**High-dimensional states:** *Consider Unscented Kalman Filter instead*  
+**Computational constraints:** *Each particle requires a full state prediction*  
+**Smooth, unimodal posteriors:** *Classical Kalman filtering is more efficient*  
 
 In future posts I will address advanced implementations and technical details for particle filters.  
 
