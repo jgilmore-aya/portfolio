@@ -17,24 +17,23 @@ In their simplest form particle filters have 3 core steps:
 
 Each particle represents a possible state about where the system is:  
 
-#### Update function in R
-update <- function(pf, observation, observation_noise, motion) {
-  for (i in 1:pf$n_particles) {
-    diff <- observation – (pf$particles[i] + motion)
-    #  likelihood update
-    pf$weights[i] <- pf$weights[i] * likelihood[i]
-  }
-  return(pf)
-}
+#### Update function in R  
+update <- function(pf, observation, observation_noise, motion) {  
+  for (i in 1:pf$n_particles) {  
+    diff <- observation – (pf$particles[i] + motion)  
+    pf$weights[i] <- pf$weights[i] * likelihood[i]  
+  }  
+  return(pf)  
+}  
 
 The approach has substantial flexibility - you can use any observation model, likelihood, or motion model, without being limited by analytical tractability or requiring a  Gaussian likelihood.
 
 ## When They Work
-I'd recommend trialling particle filters in these scenarios:
-**Complex Dynamics:** Typically in multi modal systems
-**Financial modelling:** Regime-switching in abruptly changing markets 
-**Object tracking:** Especially with occlusions or cluttered backgrounds 
-**Physical and Biological systems:** Changing variables in time with stochastic events 
+I'd recommend trialling particle filters in these scenarios:  
+**Complex Dynamics:** Typically in multi modal systems  
+**Financial modelling:** Regime-switching in abruptly changing markets  
+**Object tracking:** Especially with occlusions or cluttered backgrounds  
+**Physical and Biological systems:** Changing variables in time with stochastic events  
 
 In general if your system has non-Gaussian characteristics, such as the true posterior distribution being decidedly non-Gaussian, particle filters are worth considering. 
 
