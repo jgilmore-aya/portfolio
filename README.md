@@ -6,7 +6,8 @@ Data scientist with 13+ years of experience in analytics, statistical modeling, 
 
 Here is a selection of projects demonstrating my competence and capability. Datasets are  from kaggle, yahoo finance, and the UC Irvine Machine Learning Repository, ... 
 
-[Particle Filters](posts/README.md 'Particle Filters')  
+[Particle Filters](https://github.com/jgilmore-aya/particlefilter)  
+
  ![Time Series Filters Project](images/image.JPG 'TS') | [Modelling](https://www.linkedin.com/in/james-gilmore-5724821a/)  
 ![Modelling Project](images/image.JPG 'Modelling') | [Time Series Filters](https://www.linkedin.com/in/james-gilmore-5724821a/)  
  ![Time Series Filters Project](images/image.JPG 'TS')| 
