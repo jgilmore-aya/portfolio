@@ -17,11 +17,14 @@ In their simplest form particle filters have 3 core steps:
 
 Each particle represents a possible state about where the system is:  
 
-#### Update function in R  
+
 ```r
+# update function in R  
 update <- function(pf, observation, observation_noise, motion) {  
-  for (i in 1:pf$n_particles) {  
-    diff <- observation – (pf$particles[i] + motion)  
+  for (i in 1:pf$n_particles) {
+    # motion update and difference with observation
+    diff <- observation – (pf$particles[i] + motion)
+    # likelihood update
     pf$weights[i] <- pf$weights[i] * likelihood[i]  
   }  
   return(pf)  
