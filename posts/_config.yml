@@ -1,0 +1,13 @@
+# add the following to _config.yml file
+title: Dr. James Gilmore
+logo: "/images/headshot.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Data Scientist & Consultant<br>
+  Ph.D. Physics | M.Phil. | M.Sc. | BSc (Hons)
+  <br><br> 
+  <a href="https://www.linkedin.com/in/james-gilmore-5724821a/">View My LinkedIn Profile</a> 
+  <br><br>
+  Currently looking for opportunities in Data Science, Methodlogy and Consulting. I specilise in advanced methodology, modelling, and consultation. 
+  <br><br>
+theme: jekyll-theme-minimal
+baseurl: "/portfolio"
